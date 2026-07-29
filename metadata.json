@@ -1,0 +1,6 @@
+{
+  "name": "AgRoom",
+  "description": "L'agriculture intelligente à votre portée - Application de monitoring, conservation et mise en relation agricole.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
